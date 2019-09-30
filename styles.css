@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+main {
+  background-color: rgb(248, 212, 218);
+  height: 100vh;
+  width: 80vw;
+  min-width: 714px;
+  max-width: 714px;
+}
+
